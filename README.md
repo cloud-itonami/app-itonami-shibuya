@@ -4,7 +4,7 @@
 
 **Shibuya street digital-twin scene model, in pure Clojure.** A
 [kotoba-lang](https://github.com/kotoba-lang) port of the `kami-app-shibuya`
-Rust crate (`shibuya.etzhayyim.com` — OSM city mesh + kami-genesis
+Rust crate (`shibuya.itonami.app` — OSM city mesh + kami-genesis
 full-physics multi-agent sim), per ADR-2607010000. This library owns the
 pure data/config layer: the `Scene` model (buildings, roads, point objects),
 its derived geometry (centre, static-obstacle bounds, road-sampled spawn
